@@ -1,1 +1,6 @@
-CHANNEL_PREFIX = "private_"
+CHANNEL_PREFIX = ""
+CHANNEL_CATEGORY = "PRIVATE"
+CHANNEL_READABLE_ROLES = [
+    "admin",
+    "readable",
+]
